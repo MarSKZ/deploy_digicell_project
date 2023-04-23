@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/configuracion/sucursal", {data:[{}],fetch:{},mutations:void 0});

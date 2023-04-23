@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/configuracion/modelos", {data:[{}],fetch:{},mutations:void 0});
